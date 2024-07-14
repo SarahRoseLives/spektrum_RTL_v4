@@ -4,6 +4,8 @@
 
 Spektrum is a spectrum analyzer software for use with [rtl-sdr](http://sdr.osmocom.org/trac/wiki/rtl-sdr).
 
+# This fork contains the windows release with updated RTL v4 Libraries
+
 The biggest advantage is that it can do sweeps across a large frequency span.
 
 User interface part is written in [Processing](https://processing.org/)
